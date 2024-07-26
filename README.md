@@ -22,7 +22,7 @@ To get started with the To-Do List application on your local machine, follow the
 1. **Clone the Repository**
 
    ```bash
-   git clone "LINK"
+   git clone https://github.com/Virenishere/to-do-list-by-js.git
    ```
 
 2. **Navigate to the Project Directory**
